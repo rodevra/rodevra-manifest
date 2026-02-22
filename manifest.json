@@ -5,9 +5,9 @@
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "icons": [
+  "theme_color": "#C29952",
+"background_color": "#C29952",
+   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
@@ -28,3 +28,4 @@
     }
   ]
 }
+
