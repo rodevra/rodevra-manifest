@@ -9,19 +9,19 @@
   "background_color": "#C29952",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "https://rodevra.github.io/rodevra-manifest/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512x512-rounded.png",
+      "src": "https://rodevra.github.io/rodevra-manifest/icon-512x512-rounded.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icons/icon-256x256.png",
+      "src": "https://rodevra.github.io/rodevra-manifest/icon-256x256.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "any"
