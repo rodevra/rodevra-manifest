@@ -1,6 +1,6 @@
 {
   "name": "Rodevra",
-  "short_name": "Rodevra",
+  "short_name": "Rodevra Republic",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#C29952",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
