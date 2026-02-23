@@ -1,5 +1,5 @@
 {
-  "name": "Rodevra",
+  "name": "Rodevra Republic",
   "short_name": "Rodevra Republic",
   "start_url": "/",
   "display": "standalone",
@@ -18,4 +18,3 @@
     }
   ]
 }
-
