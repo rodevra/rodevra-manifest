@@ -3,8 +3,8 @@
   "short_name": "Rodevra Republic",
   "start_url": "https://blog.rodevra.com/",
   "display": "standalone",
-  "background_color": "#C29952",
-  "theme_color": "#C29952",
+  "background_color": "ffffe0",
+  "theme_color": "ffffe0",
   "icons": [
     {
       "src": "https://rodevra.com/icons/rodevra-192.png",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
